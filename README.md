@@ -1,4 +1,3 @@
-# Numeric-Optimization-Algorithms-From-Scratch
 # Numerical Optimization Algorithms from Scratch
 
 ## Overview
@@ -34,20 +33,5 @@ To run these notebooks, ensure you have the following installed:
 - NumPy
 - Matplotlib
 
-### Running the Notebooks
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yossr8/numerical-optimization.git
-   cd numerical-optimization
-   ```
-2. Install dependencies (if required):
-   ```bash
-   pip install numpy matplotlib jupyter
-   ```
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Open and run any of the notebooks.
 
 

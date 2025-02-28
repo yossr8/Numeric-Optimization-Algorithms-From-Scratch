@@ -7,17 +7,17 @@ This repository contains implementations of various numerical optimization algor
 The repository includes the following optimization techniques:
 
 ### 1. **Gradient Descent Variants**
-- **Batch, Mini-Batch, and Stochastic Gradient Descent** 
-- **Basic Gradient Descent for Linear Regression (Single & Multi-variable)** 
+- Batch, Mini-Batch, and Stochastic Gradient Descent
+- Basic Gradient Descent for Linear Regression (Single & Multi-variable)
 
 ### 2. **Adaptive Learning Rate Methods**
-- **Adagrad, RMSProp, and Adam** 
+- Adagrad, RMSProp, and Adam
 
 ### 3. **Momentum-based Optimization**
-- **Momentum and Nesterov Accelerated Gradient (NAG)** 
+- Momentum and Nesterov Accelerated Gradient (NAG)
 
 ### 4. **Second-Order Optimization Methods**
-- **Newton's Method and BFGS (Quasi-Newton Method)** 
+- Newton's Method and BFGS (Quasi-Newton Method)
 
 ## Features
 - Implemented from scratch without relying on high-level optimization libraries.
